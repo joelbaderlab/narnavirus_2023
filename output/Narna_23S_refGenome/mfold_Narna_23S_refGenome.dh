@@ -1,0 +1,38 @@
+ Linear or circular RNA ? (L [default] or C) : 
+ Enter CT file name (default=fold.ct) : 
+Do you want printer output? (Y,n) 
+Do you want the thermodynamic details table? (y,N) 
+  
+ Enter asymmetric interior loop of size 3 energy file name
+ (default asint1x2.dat)
+ Enter asymmetric interior loop of size 5 energy file name
+ (default asint2x3.dat)
+ Enter dangle energy file name (default dangle.dat)
+ Enter loop energy file name (default loop.dat)
+ Enter misc. loop energy file name (default miscloop.dat)
+ Enter symmetric interior loop of size 2 energy file
+  name (default sint2.dat)
+ Enter symmetric interior loop of size 4 energy file
+  name (default sint4.dat)
+ Enter symmetric interior loop of size 6 energy file
+  name (default sint6.dat)
+ Enter stack energy file name (default stack.dat)
+ Enter tetraloop energy file name (default tloop.dat)
+ Enter triloop energy file name (default triloop.dat)
+ Enter tstackh energy file name (default tstackh.dat)
+ Enter tstacki energy file name (default tstacki.dat)
+     1.  dG =  -1498.78 NC_004050.1 |Saccharomyces 23S RNA narnaviru
+Computed energy = -10078.20
+
+     2.  dG =  -1468.62 NC_004050.1 |Saccharomyces 23S RNA narnaviru
+Computed energy =  -9932.40
+
+     3.  dG =  -1462.54 NC_004050.1 |Saccharomyces 23S RNA narnaviru
+Computed energy =  -9948.50
+
+     4.  dG =  -1440.50 NC_004050.1 |Saccharomyces 23S RNA narnaviru
+Computed energy = -10023.40
+
+     5.  dG =  -1432.69 NC_004050.1 |Saccharomyces 23S RNA narnaviru
+Computed energy =  -9906.10
+

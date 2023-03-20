@@ -1,0 +1,1692 @@
+Linear RNA folding at 30� C. [Na+] = 1.0, [Mg++] = 0.0.
+ 
+Structure    1
+ 
+Folding bases      1 to   2891 of NC_004050.1 |Saccharomyces 23S RNA narnavirus, com
+ dG =  -1498.78  dH = -10078.20  dS = -28300.91  Tm =   83.0 ℃
+ 
+ 
+           10        20
+       C-         A     .-AA|  G
+--GGGGC  ATGCATCAC AGGTT    TGT A
+  CCCCG  TACGTGGTG TCCGA    ACA A
+\      TC         -     \ --^  A
+          80         70       30
+ 
+ 
+                               40        50
+                          CA      A       T
+                            GCGAGA GTCCATT C
+                            CGTTCT CAGGTAA C
+                          A-      C       C
+                                  60
+ 
+ 
+   90         100
+  .-TA    .-A     C    T
+      GGCC   GTTGC CGTG \
+      CCGG   CAACG GCAC T
+  \ --    \ -     T    T
+                    110
+ 
+ 
+            120
+                ACC
+            --CG   T
+              GC   A
+            \   CAG
+             130
+ 
+ 
+                      140        150
+                     ACA      -       TT
+              --ACGCT   GGTGCG TCCTCAG  \
+                TGTGA   TCGTGC AGGAGTC  T
+              \      CGC      G       CA
+                       170       160
+ 
+ 
+                180       190         200         210        220         230
+                .-T                 T       .-A    CGTT      -    -    A-     T
+                   GGGTGTAAATGG--TCG CGACCCG   GCGG    ACGACG TGGA CTCG  GGAGC \
+                   TCCACATTTACC  AGC GCTGGGT   TGCC    TGCTGC GCCT GAGC  CCTCG T
+                \ -            \    T       \ -    TC--      C    T    GC     G
+                         2760  390       380     260         250       240
+ 
+ 
+                                                  270       280        290       300          310       320
+                                              T-   C    GA    T-    C  GATC   G      -    -   -   TC     T
+                                                TGG GGAC  TTGC  GGCG GC    TGC CGGCCG TCTG CAC GGG  GGAAG T
+                                                GCC TCTG  AACG  CCGC CG    ACG GCCGGC AGAC GTG CTC  CCTTC T
+                                              AT   A    AA    TT    T  AGA-   -      T    A   G   TT     C
+                                                     370       360        350        340       330
+ 
+ 
+                                         400         410        420         430         440       450       460         470        480         490       500
+                                 C-          .-TGT          -    AAT   --    C            A  A  A   T     TTT                   A  -      -  C-        T         T
+                                   TGCTAGTAGG     GGTCTGCCGA GGCG   CGG  TCGT TCCGAC--CTCA GC GG GTG GCAGA   GCGGCGTGTGA--TCTTCG AG GGTCCA CC  GGATCCCG CCAGTTCCT \
+                                   GTGATCATCC     CCAGACGGCT CCGC   GCC  AGCA GGGCTG  GAGT CG CC TAC TGTCT   CGCCGTACACT  AGAGGC TC CCAGGT GG  CCTGGGGC GGTCAGGGG A
+                                 TT          \ ---          T    GGC   CT    T      \     -  C  C   C     CAC           \       C  T      T  AT        T         T
+                                     2750          850       840       830       820     650       640       630               540       530       520       510
+ 
+ 
+                                                                                                                          550        560       570       580
+                                                                                                                          G     T-   GC         T  GCC        CC
+                                                                                                                           GGCGA  GCA  TGACGTTCA CG   GGGCTCTC  T
+                                                                                                                           CCGCT  CGT  GCTGCGAGT GC   CCTGAGGG  T
+                                                                                                                          -     CT   --         T  AGA        TA
+                                                                                                                          620         610       600       590
+ 
+ 
+                                                                                            660        670         680         690        700       710
+                                                                                      T--   A-      - T  CTC-    -         AC      C   A-   T      ATG
+                                                                                         GCC  TCCTAA C AC    GTAG CCGC--GGA  AATTCG GAA  TCC GGGCAG   A
+                                                                                         CGG  AGGATT G TG    CATC GGCG  CCT  TTAGGC CTT  AGG CCCGTC   T
+                                                                                      TTT   AA      T C  ACGT    T    \    AT      -   AA   C      CAA
+                                                                                             810       800       790  740       730        720
+ 
+ 
+                                                                                                                               750       760
+                                                                                                                        CA     G   A     C    TG
+                                                                                                                          TTGCG TGC GGAGT CTCC  \
+                                                                                                                          AACGC GTG CCTCA GAGG  T
+                                                                                                                        G-     -   C     T    TA
+                                                                                                                               780       770
+ 
+ 
+                                                     860          870         880       890
+                                               --        .-C     T-    .-A    A          T
+                                                 CTGATGAT   TCGAG  TGGC   AAGG GCGTGGATTC C
+                                                 GACTACTA   AGTTT  ACCG   TTCT CGCGCCTAAG T
+                                               TT        \ -     CT    \ -    C          C
+                                                 2740       1690               900
+ 
+ 
+                                                                           910        920
+                                                                             T   - C         T
+                                                                         --GG ACT C ACTTTCCGC A
+                                                                           CC TGA G TGAGAGGCG T
+                                                                         \   -   A T         C
+                                                                               940       930
+ 
+ 
+                                                                               950        960        970       980       990      1000       1010         1020
+                                                                           .-A       -   TC   A    C  -      GT       GA        TCAA    A      -     --   -   A    A
+                                                                              CCAATCA GTC  TCG GGCC GG GTCGCT  GGTCCCT  GAGGGGGT    GGCG GGATTG TGACC  ACG CAC GCGC \
+                                                                              GGTTAGT CAG  GGT TCGG CC CAGCGG  CTAGGGG  CTCCTCCA    CCGC CTTAAC ACTGG  TGC GTG CGCG T
+                                                                           \ -       G   TT   C    C  A      A-       AC        TTG-    -      T     CT   A   -    C
+                                                                                    1100      1090      1080       1070      1060        1050      1040       1030
+ 
+ 
+                                                                          1110           1120      1130        1140      1150
+                                                                             A---     .-TCATA      CT       .-CTAT   T       -  -     G
+                                                                                 GGCGA       GACGAG  GTCGAAA      GGA GGCGACT TC GGCCT T
+                                                                                 TCGCT       CTGCTC  CAGCTTT      CCT CTGCTGG AG CCGGA T
+                                                                             AGTC     \ -----      --       \ ----   -       T  A     A
+                                                                            1680           1310        1300    1180       1170      1160
+ 
+ 
+                                                                                                                       1190       1200      1210      1220      1230
+                                                                                                              .-T     C-    -    CG    C      CC    A    A   CT    G
+                                                                                                                 TTCCG  GGAC TTGA  TCAG ATCTGA  GGAT CCCC TGA  TGGT A
+                                                                                                                 AGGGC  CCTG AGCT  AGTC TAGGCT  TCTA GGGG GTT  ACCG A
+                                                                                                              \ -     CT    C    --    C      CT    C    C   TT    A
+                                                                                                               1280      1270        1260      1250      1240
+ 
+ 
+ 
+                                                                                                                      CT
+                                                                                                                ACGTCC  \
+                                                                                                                TGCAGG  T
+                                                                                                                      CG
+ 
+ 
+ 
+                                                                                              1320         1330
+                                                                                        -        C-    .-AC          CT
+                                                                                         CTCGGACC  TATC    CTTCACTACC  \
+                                                                                         GGGCCTGG  GTAG    GAAGTGATGG  G
+                                                                                        T        AA    \ --          CA
+                                                                                        1670      1660   1350      1340
+ 
+ 
+                                                                                                                  1360      1370
+                                                                                                         .-T    .-GT     A    A    T
+                                                                                                            GACC    TCGTC GGGA TCCT \
+                                                                                                            CTGG    AGCAG CCCT AGGG A
+                                                                                                         \ -    \ --     -    C    T
+                                                                                                                 1390       1380
+ 
+ 
+                                                                                                                          1400      1410        1420      1430      1440        1450
+                                                                                                                  .-C    C      TAT     .-AT    CT       GT   A        TT    C--        TCCTA
+                                                                                                                     CTGG CTCTGC   GTCTA    CCAC  GTTCTGG  GGA CTCTCCGA  GGGC   CCCGCGCG     \
+                                                                                                                     GACC GAGGCG   CAGAT    GGTG  TAAGACT  CCT GAGGGGCT  CCTG   GGGCGCGC     A
+                                                                                                                  \ -    C      T--     \ --    TT       T-   -        --    TTT        TTACT
+                                                                                                                   1580      1570             1500       1490         1480      1470
+ 
+ 
+                                                                                                                                           1510      1520      1530
+                                                                                                                                            A   C       CTT  T     C  G
+                                                                                                                                          CG CGA CTGATTG   GG GGCGA CC A
+                                                                                                                                          GC GTT GACTAAC   CT CCGCT GG A
+                                                                                                                                            C   A       AT-  C     A  A
+                                                                                                                                           1560      1550       1540
+ 
+ 
+                                                                                                                         1590      1600
+                                                                                                                           C     AGCA         G
+                                                                                                                    TTTTCAG GGGGA    CCTCGAGTC \
+                                                                                                                    AAAAGTC CTTCT    GGGGTTCAG A
+                                                                                                                           A     AG--         A
+                                                                                                                     1630      1620        1610
+ 
+ 
+                                                                                                         1640
+                                                                                                           T      TT
+                                                                                                            TCACGG  A
+                                                                                                            AGTGCC  A
+                                                                                                           A      CA
+                                                                                                                1650
+ 
+ 
+                                                                1700        1710         1720      1730
+                                                           .-A    T      .-TC         -          C    G  G
+                                                              GGGC ACGTGT    TCCCGATCT AGT--GCCTT TCCT CC A
+                                                              TCCG TGCATA    GGGGCTAGA TCA  CGGGA AGGA GG A
+                                                           \ -    T      \ --         A   \      A    G  T
+                                                                    2580        2170              1740
+ 
+ 
+                                                                                           1750        1760       1770      1780       1790      1800
+                                                                                            .-A        .-ATC       -  C  C  T   CCA     -      C   G
+                                                                                               TAACTGGT     CGGGCGG CC GG TA ACA   TCGGA GCGATG CTC T
+                                                                                               ATTGGCCA     GCTCGCT GG CC AT TGT   GGCCT CGCTGC GAG T
+                                                                                            \ -        \ ---       T  T  T  C   AG-     A      T   G
+                                                                                                         1840      1830      1820       1810
+ 
+ 
+                                                                                                               1850
+                                                                                                         AA            T
+                                                                                                           CATCGTACTGCT C
+                                                                                                           GTGGCATGGCGA T
+                                                                                                         A-            C
+                                                                                                        1870      1860
+ 
+ 
+                                                                                           1880        1890      1900       1910      1920        1930        1940
+                                                                                              C    .-T    TTTT   C         -   CAATT   C      --      TT    C--       CG
+                                                                                               TGTG   ACCG    GGT GCTGGTCTT CCG     CCA TTCGGT  GGGCTG  CGGG   CCCCACC  \
+                                                                                               ACAC   TGGC    TCG CGACCAGGG GGC     GGT AGGCCA  CCTGAC  GTCC   GGGGTGG  T
+                                                                                              -    \ -    TTCT   T         T   ACTT-   T      TT      CT    CAA       CA
+                                                                                               2160  2010      2000      1990       1980      1970      1960      1950
+ 
+ 
+                                                                                                           2020      2030      2040      2050         2060      2070
+                                                                                                               ATT         TT    C     C     T--   TC-    GAT   C     TT
+                                                                                                     --CGCTGCTG   CAAACGCCT  GGGG GGTAT GAGGG   CCT   GACG   GTT CCGGG  \
+                                                                                                       GCGGCGGC   GTTTGTGGG  CCCT CCATG CTCCT   GGG   CTGC   CAA GGCCC  T
+                                                                                                     \         G--         CT    -     C     TAC   CGA    GTT   A     CA
+                                                                                                           2130        2120       2110      2100      2090      2080
+ 
+ 
+                                                                                                       2140
+                                                                                                       -        AA
+                                                                                                        GTCTGGTG  \
+                                                                                                        CAGGCCAC  A
+                                                                                                       T        CT
+                                                                                                             2150
+ 
+ 
+                                                                            2180         2190      2200       2210       2220      2230      2240      2250        2260
+                                                                           C-            -  C GCT      -     AT   G-  C  T    A      C    A    A  T  A   TA--   A          A
+                                                                             CGTT--GCTTCC CG C   GGATGA GTCGG  CGG  CA GA CTTT TCGATC CGTG GAGG AG CG CGT    GGG GGGTGTGGAC \
+                                                                             GCAA  TGAAGG GC G   TCTACT CAGCC  GCC  GT CT GAAG AGCTGG GCAC CTCC TC GC GCA    CCC CCTACACCTG C
+                                                                           CA    \       A  A T--      A     CC   AG  A  T    -      A    -    C  C  C   TTCG   -          T
+                                                                                2350      2340        2330      2320      2310       2300       2290      2280       2270
+ 
+ 
+                                                                                           2360      2370      2380       2390      2400      2410      2420      2430         2440
+                                                                                      TC        A     AA      TC    AC-    TTTA    A     T   C   A      T     GT   A   TAT-     --   CT
+                                                                                   --G  GGAACCCC TGCTG  GCATGC  GGGA   TCGG    TTCG GGAGG CTT GAG GTCGGG GGGAG  GGA TCC    GGGCT  TCC  T
+                                                                                     C  CTTTGGGG GTGAC  CGTGCG  CCCT   GGCC    AGGC CCTCT GAA CTC TAGCTC CCCTC  CCT AGG    CCCGA  AGG  A
+                                                                                   \  TC        -     CC      TT    AGC    TCTA    -     -   C   C      C     AC   A   TGTT     AA   TA
+                                                                                   2540       2530      2520      2510      2500        2490      2480      2470      2460      2450
+ 
+ 
+                                                                                          2550
+                                                                                     A     T  G   CT
+                                                                                      GACCA CT CCC  \
+                                                                                      CTGGT GA GGG  A
+                                                                                     C     C  A   AT
+                                                                                    2570      2560
+ 
+ 
+                                                           2590        2600       2610
+                                                             -     .-AA     -   TT   A
+                                                              CGGGG    CGGTC TGG  CTT \
+                                                              GCCCC    GCCAG GCC  GAA G
+                                                             A     \ --     C   TT   A
+                                                               2730       2620
+ 
+ 
+                                                                     2630       2640          2650      2660      2670
+                                                                     ACTC       C-       GA----           CCA     A     GCC
+                                                                         GGCCCGT  AGGGAGG      TGGGTCTGCCA   CCACC CCGCC   \
+                                                                         CCGGGTA  TTCCTCC      GCCTGGGCGGT   GGTGG GGCGG   T
+                                                                     GCTT       CT       ACCACC           AG-     A     ATC
+                                                                           2720      2710      2700       2690      2680
+ 
+ 
+               2770        2780      2790
+                  T--     TT    G     CT
+                     CAATG  CTCT AACGC  T
+                     GTTAC  GAGA TTGCG  G
+                  CTT     T-    -     TC
+                2810       2800
+ 
+ 
+       2820
+    .-GCCC    CCTT
+          GCCA    \
+          CGGT    C
+    \ ----    AGTA
+             2830
+ 
+ 
+        2840
+      .-A       G
+         GAACGGG A
+         CTTGCTC A
+      \ -       A
+           2850
+ 
+ 
+           2860      2870
+        C--        A     T
+           GCTCAGGC CGGTA A
+           CGAGTCCG GCCAT A
+        CCC        G     T
+      2890      2880
+ 
+ 
+ 
+Structure    2
+ 
+Folding bases      1 to   2891 of NC_004050.1 |Saccharomyces 23S RNA narnavirus, com
+ dG =  -1468.62  dH =  -9932.40  dS = -27919.45  Tm =   82.6 ℃
+ 
+ 
+           10        20
+       C-          A    .-AA   G
+--GGGGC  ATGCATCACA GGTT    TGT A
+  CCCCG  TACGTGGTGT CCGA    ACA A
+\      TC          -    \ --   A
+          80         70       30
+ 
+ 
+                               40        50
+                          CA      A       T
+                            GCGAGA GTCCATT C
+                            CGTTCT CAGGTAA C
+                          A-      C       C
+                                  60
+ 
+ 
+   90
+  .-TA   CA
+      GGC  \
+      CCG  G
+  \ --   TT
+      100
+ 
+ 
+           110         120         130       140        150
+    .-CG| TT   C    .-A   GAC    .-A        ACA      -       TT
+        TG  TCA GTGC   ACC   CTAG   CCGACGCT   GGTGCG TCCTCAG  \
+        GC  AGT TACG   TGG   GATC   GGTTGTGA   TCGTGC AGGAGTC  T
+    \ --^ C-   C    \ -   AT-    \ -        CGC      G       CA
+      1210             400          180       170       160
+ 
+ 
+ 
+                                   .-G G
+                                      T T
+                                      A A
+                                   \ - A
+ 
+ 
+ 
+                                   190       200         210        220         230
+                                     T     T       .-A    CGTT      -    -    A-     T
+                                      GGTCG CGACCCG   GCGG    ACGACG TGGA CTCG  GGAGC \
+                                      TCAGC GCTGGGT   TGCC    TGCTGC GCCT GAGC  CCTCG T
+                                     G     T       \ -    TC--      C    T    GC     G
+                                      390       380     260         250       240
+ 
+ 
+                                                         270       280        290       300          310       320
+                                                     T-   C    GA    T-    C  GATC   G      -    -   -   TC     T
+                                                       TGG GGAC  TTGC  GGCG GC    TGC CGGCCG TCTG CAC GGG  GGAAG T
+                                                       GCC TCTG  AACG  CCGC CG    ACG GCCGGC AGAC GTG CTC  CCTTC T
+                                                     AT   A    AA    TT    T  AGA-   -      T    A   G   TT     C
+                                                            370       360        350        340       330
+ 
+ 
+                             410        420         430         440       450       460         470        480         490       500
+                         T          -    AAT   --    C            A  A  A   T     TTT                   A  -      -  C-        T         T
+                      --G GGTCTGCCGA GGCG   CGG  TCGT TCCGAC--CTCA GC GG GTG GCAGA   GCGGCGTGTGA--TCTTCG AG GGTCCA CC  GGATCCCG CCAGTTCCT \
+                        T CCAGACGGCT CCGC   GCC  AGCA GGGCTG  GAGT CG CC TAC TGTCT   CGCCGTACACT  AGAGGC TC CCAGGT GG  CCTGGGGC GGTCAGGGG A
+                      \  C          T    GGC   CT    T      \     -  C  C   C     CAC           \       C  T      T  AT        T         T
+                           850       840       830       820     650       640       630               540       530       520       510
+ 
+ 
+                                                                                                  550        560       570       580
+                                                                                                  G     T-   GC         T  GCC        CC
+                                                                                                   GGCGA  GCA  TGACGTTCA CG   GGGCTCTC  T
+                                                                                                   CCGCT  CGT  GCTGCGAGT GC   CCTGAGGG  T
+                                                                                                  -     CT   --         T  AGA        TA
+                                                                                                  620         610       600       590
+ 
+ 
+                                                                    660        670         680         690        700       710
+                                                              T--   A-      - T  CTC-    -         AC      C   A-   T      ATG
+                                                                 GCC  TCCTAA C AC    GTAG CCGC--GGA  AATTCG GAA  TCC GGGCAG   A
+                                                                 CGG  AGGATT G TG    CATC GGCG  CCT  TTAGGC CTT  AGG CCCGTC   T
+                                                              TTT   AA      T C  ACGT    T    \    AT      -   AA   C      CAA
+                                                                     810       800       790  740       730        720
+ 
+ 
+                                                                                                       750       760
+                                                                                                CA     G   A     C    TG
+                                                                                                  TTGCG TGC GGAGT CTCC  \
+                                                                                                  AACGC GTG CCTCA GAGG  T
+                                                                                                G-     -   C     T    TA
+                                                                                                       780       770
+ 
+ 
+                          860       870           880       890
+                        GA    C       G  --                  T
+                          TGAT TCGAGTT GC  AAAGGA--GCGTGGATTC C
+                          ACTG AGTTCAG CG  TTTCCT  CGCGCCTAAG T
+                        --    C       G  CC      \           C
+                       1200      1190      1180    900
+ 
+ 
+                                                          910        920
+                                                   .-CTCT   T   - C         T
+                                                         TGG ACT C ACTTTCCGC A
+                                                         ACC TGA G TGAGAGGCG T
+                                                   \ ----   -   A T         C
+                                                              940       930
+ 
+ 
+                                                        950        960        970       980       990      1000       1010         1020
+                                                              -   TC   A    C  -      GT       GA        TCAA    A      -     --   -   A    A
+                                                     --CCAATCA GTC  TCG GGCC GG GTCGCT  GGTCCCT  GAGGGGGT    GGCG GGATTG TGACC  ACG CAC GCGC \
+                                                       GGTTAGT CAG  GGT TCGG CC CAGCGG  CTAGGGG  CTCCTCCA    CCGC CTTAAC ACTGG  TGC GTG CGCG T
+                                                     \        G   TT   C    C  A      A-       AC        TTG-    -      T     CT   A   -    C
+                                                             1100      1090      1080       1070      1060        1050      1040       1030
+ 
+ 
+                                                    1110        1120       1130
+                                                       A         .-A  CGA-      GAAA
+                                                        GGCGATCAT   GA    GCTGTC    \
+                                                        CTGCTGGTA   CT    CGGTAG    C
+                                                       -         \ -  TCAG      GTAT
+                                                            1170   1150      1140
+ 
+ 
+ 
+                                                                   --     G
+                                                                     GGCCT T
+                                                                     CCGGA T
+                                                                   GA     A
+                                                                        1160
+ 
+ 
+             1220      1230
+           A    A   CT    G
+      --GAT CCCC TGA  TGGT A
+        CTA GGGG GTT  ACCG A
+      \    C    C   TT    A
+      1250      1240
+ 
+ 
+               1260        1270      1280
+        .-TTC     TCC   .-TC    TCCTC           CT
+             TCGGA   TGA    GACG     CGGGAACGTCC  \
+             AGTCT   GCT    CTGC     GCTTTTGCAGG  T
+        \ ---     C--   \ --    TCCA-           CG
+            1680          1310       1300
+ 
+ 
+                                1320         1330
+                          -        C-    .-AC          CT
+                           CTCGGACC  TATC    CTTCACTACC  \
+                           GGGCCTGG  GTAG    GAAGTGATGG  G
+                          T        AA    \ --          CA
+                          1670      1660   1350      1340
+ 
+ 
+                                                    1360      1370
+                                           .-T    .-GT     A    A    T
+                                              GACC    TCGTC GGGA TCCT \
+                                              CTGG    AGCAG CCCT AGGG A
+                                           \ -    \ --     -    C    T
+                                                   1390       1380
+ 
+ 
+                                                            1400      1410        1420      1430      1440        1450
+                                                    .-C    C      TAT     .-AT    CT       GT   A        TT    C--        TCCTA
+                                                       CTGG CTCTGC   GTCTA    CCAC  GTTCTGG  GGA CTCTCCGA  GGGC   CCCGCGCG     \
+                                                       GACC GAGGCG   CAGAT    GGTG  TAAGACT  CCT GAGGGGCT  CCTG   GGGCGCGC     A
+                                                    \ -    C      T--     \ --    TT       T-   -        --    TTT        TTACT
+                                                     1580      1570             1500       1490         1480      1470
+ 
+ 
+                                                                             1510      1520      1530
+                                                                              A   C       CTT  T     C  G
+                                                                            CG CGA CTGATTG   GG GGCGA CC A
+                                                                            GC GTT GACTAAC   CT CCGCT GG A
+                                                                              C   A       AT-  C     A  A
+                                                                             1560      1550       1540
+ 
+ 
+                                                           1590      1600
+                                                             C     AGCA         G
+                                                      TTTTCAG GGGGA    CCTCGAGTC \
+                                                      AAAAGTC CTTCT    GGGGTTCAG A
+                                                             A     AG--         A
+                                                       1630      1620        1610
+ 
+ 
+                                           1640
+                                             T      TT
+                                              TCACGG  A
+                                              AGTGCC  A
+                                             A      CA
+                                                  1650
+ 
+ 
+                1690        1700        1710         1720      1730
+                  TT          T      .-TC         -          C    G  G
+          --GCCATC  TGAAGG--GC ACGTGT    TCCCGATCT AGT--GCCTT TCCT CC A
+            CGGTAG  ACTTCC  CG TGCATA    GGGGCTAGA TCA  CGGGA AGGA GG A
+          \       T-      \   T      \ --         A   \      A    G  T
+               2830             2580        2170              1740
+ 
+ 
+                                                       1750        1760       1770      1780       1790      1800
+                                                        .-A        .-ATC       -  C  C  T   CCA     -      C   G
+                                                           TAACTGGT     CGGGCGG CC GG TA ACA   TCGGA GCGATG CTC T
+                                                           ATTGGCCA     GCTCGCT GG CC AT TGT   GGCCT CGCTGC GAG T
+                                                        \ -        \ ---       T  T  T  C   AG-     A      T   G
+                                                                     1840      1830      1820       1810
+ 
+ 
+                                                                           1850
+                                                                     AA            T
+                                                                       CATCGTACTGCT C
+                                                                       GTGGCATGGCGA T
+                                                                     A-            C
+                                                                    1870      1860
+ 
+ 
+                                                       1880        1890      1900       1910      1920        1930        1940
+                                                          C    .-T    TTTT   C         -   CAATT   C      --      TT    C--       CG
+                                                           TGTG   ACCG    GGT GCTGGTCTT CCG     CCA TTCGGT  GGGCTG  CGGG   CCCCACC  \
+                                                           ACAC   TGGC    TCG CGACCAGGG GGC     GGT AGGCCA  CCTGAC  GTCC   GGGGTGG  T
+                                                          -    \ -    TTCT   T         T   ACTT-   T      TT      CT    CAA       CA
+                                                           2160  2010      2000      1990       1980      1970      1960      1950
+ 
+ 
+                                                                       2020      2030      2040      2050         2060      2070
+                                                                           ATT         TT    C     C     T--   TC-    GAT   C     TT
+                                                                 --CGCTGCTG   CAAACGCCT  GGGG GGTAT GAGGG   CCT   GACG   GTT CCGGG  \
+                                                                   GCGGCGGC   GTTTGTGGG  CCCT CCATG CTCCT   GGG   CTGC   CAA GGCCC  T
+                                                                 \         G--         CT    -     C     TAC   CGA    GTT   A     CA
+                                                                       2130        2120       2110      2100      2090      2080
+ 
+ 
+                                                                   2140
+                                                                   -        AA
+                                                                    GTCTGGTG  \
+                                                                    CAGGCCAC  A
+                                                                   T        CT
+                                                                         2150
+ 
+ 
+                                        2180         2190      2200       2210       2220      2230      2240      2250        2260
+                                       C-            -  C GCT      -     AT   G-  C  T    A      C    A    A  T  A   TA--   A          A
+                                         CGTT--GCTTCC CG C   GGATGA GTCGG  CGG  CA GA CTTT TCGATC CGTG GAGG AG CG CGT    GGG GGGTGTGGAC \
+                                         GCAA  TGAAGG GC G   TCTACT CAGCC  GCC  GT CT GAAG AGCTGG GCAC CTCC TC GC GCA    CCC CCTACACCTG C
+                                       CA    \       A  A T--      A     CC   AG  A  T    -      A    -    C  C  C   TTCG   -          T
+                                            2350      2340        2330      2320      2310       2300       2290      2280       2270
+ 
+ 
+                                                       2360      2370      2380       2390      2400      2410      2420      2430         2440
+                                                  TC        A     AA      TC    AC-    TTTA    A     T   C   A      T     GT   A   TAT-     --   CT
+                                               --G  GGAACCCC TGCTG  GCATGC  GGGA   TCGG    TTCG GGAGG CTT GAG GTCGGG GGGAG  GGA TCC    GGGCT  TCC  T
+                                                 C  CTTTGGGG GTGAC  CGTGCG  CCCT   GGCC    AGGC CCTCT GAA CTC TAGCTC CCCTC  CCT AGG    CCCGA  AGG  A
+                                               \  TC        -     CC      TT    AGC    TCTA    -     -   C   C      C     AC   A   TGTT     AA   TA
+                                               2540       2530      2520      2510      2500        2490      2480      2470      2460      2450
+ 
+ 
+                                                      2550
+                                                 A     T  G   CT
+                                                  GACCA CT CCC  \
+                                                  CTGGT GA GGG  A
+                                                 C     C  A   AT
+                                                2570      2560
+ 
+ 
+                             2590        2600       2610
+                            .-C      .-AA     -   TT   A
+                               TCGGGG    CGGTC TGG  CTT \
+                               AGCCCC    GCCAG GCC  GAA G
+                            \ -      \ --     C   TT   A
+                                 2730       2620
+ 
+ 
+                                       2630       2640          2650      2660      2670
+                                       ACTC       C-       GA----           CCA     A     GCC
+                                           GGCCCGT  AGGGAGG      TGGGTCTGCCA   CCACC CCGCC   \
+                                           CCGGGTA  TTCCTCC      GCCTGGGCGGT   GGTGG GGCGG   T
+                                       GCTT       CT       ACCACC           AG-     A     ATC
+                                             2720      2710      2700       2690      2680
+ 
+ 
+                                 2740
+                              .-ATCATC   T
+                                      AGT C
+                                      TCA C
+                              \ ------   T
+                                    2750
+ 
+ 
+ 
+                                .-A    TCC
+                                   GTGT   \
+                                   CACA   A
+                                \ -    TTT
+ 
+ 
+ 
+                                   2770      2780      2790
+                                  .-CTT     TT    G     CT
+                                       CAATG  CTCT AACGC  T
+                                       GTTAC  GAGA TTGCG  G
+                                  \ ---     T-    -     TC
+                                             2800
+ 
+ 
+                                  2810
+                                    TTC   CG
+                                       GGC  \
+                                       CCG  C
+                                    A--   CC
+                                      2820
+ 
+ 
+              2840
+            .-A       G
+               GAACGGG A
+               CTTGCTC A
+            \ -       A
+                 2850
+ 
+ 
+                 2860      2870
+              C--        A     T
+                 GCTCAGGC CGGTA A
+                 CGAGTCCG GCCAT A
+              CCC        G     T
+            2890      2880
+ 
+ 
+ 
+Structure    3
+ 
+Folding bases      1 to   2891 of NC_004050.1 |Saccharomyces 23S RNA narnavirus, com
+ dG =  -1462.54  dH =  -9948.50  dS = -27992.61  Tm =   82.2 ℃
+ 
+ 
+             10        20
+  |      C-          A    .-AA   G
+--GG--GGC  ATGCATCACA GGTT    TGT A
+  CC  CCG  TACGTGGTGT CCGA    ACA A
+\ ^ \    TC          -    \ --   A
+            80         70       30
+ 
+ 
+                                 40        50
+                            CA      A       T
+                              GCGAGA GTCCATT C
+                              CGTTCT CAGGTAA C
+                            A-      C       C
+                                    60
+ 
+ 
+         90       100
+      .-C     CCA     C    T
+         CTAGG   GTTGC CGTG \
+         GATCC   CAACG GCAC T
+      \ -     AGC     T    T
+              120       110
+ 
+ 
+          130       140        150
+        .-A        ACA      -       TT
+           CCGACGCT   GGTGCG TCCTCAG  \
+           GGTTGTGA   TCGTGC AGGAGTC  T
+        \ -        CGC      G       CA
+           180       170       160
+ 
+ 
+ 
+          .-G G
+             T T
+             A A
+          \ - A
+ 
+ 
+ 
+            190       200         210        220         230
+            .-T     T       .-A    CGTT      -    -    A-     T
+               GGTCG CGACCCG   GCGG    ACGACG TGGA CTCG  GGAGC \
+               TCAGC GCTGGGT   TGCC    TGCTGC GCCT GAGC  CCTCG T
+            \ -     T       \ -    TC--      C    T    GC     G
+               390       380     260         250       240
+ 
+ 
+                                  270       280        290       300          310       320
+                              T-   C    GA    T-    C  GATC   G      -    -   -   TC     T
+                                TGG GGAC  TTGC  GGCG GC    TGC CGGCCG TCTG CAC GGG  GGAAG T
+                                GCC TCTG  AACG  CCGC CG    ACG GCCGGC AGAC GTG CTC  CCTTC T
+                              AT   A    AA    TT    T  AGA-   -      T    A   G   TT     C
+                                     370       360        350        340       330
+ 
+ 
+                       400       410       420
+                   A--  AGG  T    TGCC       AT
+              --GCT   GT   TG GGTC    GAGGCGA  \
+                TGA   CG   AC CCAG    CTCTGCT  C
+              \    GGA  A--  T    C---       GG
+                      440            430
+ 
+ 
+               450       460         470        480         490       500
+                GT     TTT                   A  -      -  C-        T         T
+                  GCAGA   GCGGCGTGTGA--TCTTCG AG GGTCCA CC  GGATCCCG CCAGTTCCT \
+                  TGTCT   CGCCGTACACT  AGAGGC TC CCAGGT GG  CCTGGGGC GGTCAGGGG A
+                --     CAC           \       C  T      T  AT        T         T
+                640       630               540       530       520       510
+ 
+ 
+                                       550        560       570       580
+                                       G     T-   GC         T  GCC        CC
+                                        GGCGA  GCA  TGACGTTCA CG   GGGCTCTC  T
+                                        CCGCT  CGT  GCTGCGAGT GC   CCTGAGGG  T
+                                       -     CT   --         T  AGA        TA
+                                       620         610       600       590
+ 
+ 
+         650          660        670         680         690        700       710
+  .-A           .-T   A-      - T  CTC-    -         AC      C   A-   T      ATG
+     TCCCCGCTGAG   GCC  TCCTAA C AC    GTAG CCGC--GGA  AATTCG GAA  TCC GGGCAG   A
+     AGGGGCGACTT   CGG  AGGATT G TG    CATC GGCG  CCT  TTAGGC CTT  AGG CCCGTC   T
+  \ -           \ -   AA      T C  ACGT    T    \    AT      -   AA   C      CAA
+      1590             810       800       790  740       730        720
+ 
+ 
+                                                         750       760
+                                                  CA     G   A     C    TG
+                                                    TTGCG TGC GGAGT CTCC  \
+                                                    AACGC GTG CCTCA GAGG  T
+                                                  G-     -   C     T    TA
+                                                         780       770
+ 
+ 
+                     820       830           840
+                  .-T        TACGA     C--  .-C   T
+                     TTGTCGGG     TCCCG   GG   GCC \
+                     AGCAGCCC     AGGGT   CC   CGG T
+                  \ -        TC---     ATT  \ -   C
+                  1390         1380
+ 
+ 
+                                             850       860         870       880       890
+                                              AGA         .-TCTC    TG  A    A          T
+                                                 CCCTGATGA      GAGT  GC AAGG GCGTGGATTC C
+                                                 GGGACTGCT      CTCA  TG TTCT CGCGCCTAAG T
+                                              TAA         \ ----    --  G    C          C
+                                           1370      1360           910       900
+ 
+ 
+                                                                 920
+                                                            .-C         T
+                                                               ACTTTCCGC A
+                                                               TGAGAGGCG T
+                                                            \ -         C
+                                                                    930
+ 
+ 
+                                                                940        950        960        970       980       990      1000       1010         1020
+                                                                   A- T  A       -   TC   A    C  -      GT       GA        TCAA    A      -     --   -   A    A
+                                                              --TGA  G CC CCAATCA GTC  TCG GGCC GG GTCGCT  GGTCCCT  GAGGGGGT    GGCG GGATTG TGACC  ACG CAC GCGC \
+                                                                ACT  C GG GGTTAGT CAG  GGT TCGG CC CAGCGG  CTAGGGG  CTCCTCCA    CCGC CTTAAC ACTGG  TGC GTG CGCG T
+                                                              \    AG -  A       G   TT   C    C  A      A-       AC        TTG-    -      T     CT   A   -    C
+                                                                      1110      1100      1090      1080       1070      1060        1050      1040       1030
+ 
+ 
+                                                                1120      1130        1140      1150
+                                                                .-TA      CT       .-CTAT   T       -  -     G
+                                                                    GACGAG  GTCGAAA      GGA GGCGACT TC GGCCT T
+                                                                    CTGCTC  CAGCTTT      CCT CTGCTGG AG CCGGA T
+                                                                \ --      --       \ ----   -       T  A     A
+                                                                  1310        1300    1180       1170      1160
+ 
+ 
+                                                                                              1190       1200      1210      1220      1230
+                                                                                     .-T     C-    -    CG    C      CC    A    A   CT    G
+                                                                                        TTCCG  GGAC TTGA  TCAG ATCTGA  GGAT CCCC TGA  TGGT A
+                                                                                        AGGGC  CCTG AGCT  AGTC TAGGCT  TCTA GGGG GTT  ACCG A
+                                                                                     \ -     CT    C    --    C      CT    C    C   TT    A
+                                                                                      1280      1270        1260      1250      1240
+ 
+ 
+ 
+                                                                                             CT
+                                                                                       ACGTCC  \
+                                                                                       TGCAGG  T
+                                                                                             CG
+ 
+ 
+ 
+                                                                       1320      1330
+                                                                  CT   ACCCTA    C         CT
+                                                                    CGG      TCAC TTCACTACC  \
+                                                                    GCC      AGTG AAGTGATGG  G
+                                                                  T-   ------    -         CA
+                                                                               1350      1340
+ 
+ 
+                           1400      1410        1420      1430      1440        1450
+                    C-    C      TAT     .-AT    CT       GT   A        TT    C--        TCCTA
+                      CTGG CTCTGC   GTCTA    CCAC  GTTCTGG  GGA CTCTCCGA  GGGC   CCCGCGCG     \
+                      GACC GAGGCG   CAGAT    GGTG  TAAGACT  CCT GAGGGGCT  CCTG   GGGCGCGC     A
+                    TT    C      T--     \ --    TT       T-   -        --    TTT        TTACT
+                    1580      1570             1500       1490         1480      1470
+ 
+ 
+                                            1510      1520      1530
+                                             A   C       CTT  T     C  G
+                                           CG CGA CTGATTG   GG GGCGA CC A
+                                           GC GTT GACTAAC   CT CCGCT GG A
+                                             C   A       AT-  C     A  A
+                                            1560      1550       1540
+ 
+ 
+        1600
+    .-AGCA         G
+          CCTCGAGTC \
+          GGGGTTCAG A
+    \ ----         A
+                1610
+ 
+ 
+     1620        1630
+                    G
+      --GATCTTCA--CT A
+        CTGGAAGT  GA A
+      \         \   A
+ 
+ 
+ 
+                   1640
+                  G         TT
+                   TCTTCACGG  A
+                   AGAAGTGCC  A
+                  -         CA
+                1660      1650
+ 
+ 
+        1670
+        .-C   T
+           GGG T
+           CTC C
+        \ -   G
+ 
+ 
+ 
+         1680      1690        1700        1710         1720      1730
+          .-TGA      TT          T      .-TC         -          C    G  G
+               GCCATC  TGAAGG--GC ACGTGT    TCCCGATCT AGT--GCCTT TCCT CC A
+               CGGTAG  ACTTCC  CG TGCATA    GGGGCTAGA TCA  CGGGA AGGA GG A
+          \ ---      T-      \   T      \ --         A   \      A    G  T
+                  2830             2580        2170              1740
+ 
+ 
+                                                          1750        1760       1770      1780       1790      1800
+                                                           .-A        .-ATC       -  C  C  T   CCA     -      C   G
+                                                              TAACTGGT     CGGGCGG CC GG TA ACA   TCGGA GCGATG CTC T
+                                                              ATTGGCCA     GCTCGCT GG CC AT TGT   GGCCT CGCTGC GAG T
+                                                           \ -        \ ---       T  T  T  C   AG-     A      T   G
+                                                                        1840      1830      1820       1810
+ 
+ 
+                                                                              1850
+                                                                        AA            T
+                                                                          CATCGTACTGCT C
+                                                                          GTGGCATGGCGA T
+                                                                        A-            C
+                                                                       1870      1860
+ 
+ 
+                                                          1880        1890      1900       1910      1920        1930        1940
+                                                             C    .-T    TTTT   C         -   CAATT   C      --      TT    C--       CG
+                                                              TGTG   ACCG    GGT GCTGGTCTT CCG     CCA TTCGGT  GGGCTG  CGGG   CCCCACC  \
+                                                              ACAC   TGGC    TCG CGACCAGGG GGC     GGT AGGCCA  CCTGAC  GTCC   GGGGTGG  T
+                                                             -    \ -    TTCT   T         T   ACTT-   T      TT      CT    CAA       CA
+                                                              2160  2010      2000      1990       1980      1970      1960      1950
+ 
+ 
+                                                                          2020      2030      2040      2050         2060      2070
+                                                                              ATT         TT    C     C     T--   TC-    GAT   C     TT
+                                                                    --CGCTGCTG   CAAACGCCT  GGGG GGTAT GAGGG   CCT   GACG   GTT CCGGG  \
+                                                                      GCGGCGGC   GTTTGTGGG  CCCT CCATG CTCCT   GGG   CTGC   CAA GGCCC  T
+                                                                    \         G--         CT    -     C     TAC   CGA    GTT   A     CA
+                                                                          2130        2120       2110      2100      2090      2080
+ 
+ 
+                                                                      2140
+                                                                      -        AA
+                                                                       GTCTGGTG  \
+                                                                       CAGGCCAC  A
+                                                                      T        CT
+                                                                            2150
+ 
+ 
+                                           2180         2190      2200       2210       2220      2230      2240      2250        2260
+                                          C-            -  C GCT      -     AT   G-  C  T    A      C    A    A  T  A   TA--   A          A
+                                            CGTT--GCTTCC CG C   GGATGA GTCGG  CGG  CA GA CTTT TCGATC CGTG GAGG AG CG CGT    GGG GGGTGTGGAC \
+                                            GCAA  TGAAGG GC G   TCTACT CAGCC  GCC  GT CT GAAG AGCTGG GCAC CTCC TC GC GCA    CCC CCTACACCTG C
+                                          CA    \       A  A T--      A     CC   AG  A  T    -      A    -    C  C  C   TTCG   -          T
+                                               2350      2340        2330      2320      2310       2300       2290      2280       2270
+ 
+ 
+                                                          2360      2370      2380       2390      2400      2410      2420      2430         2440
+                                                     TC        A     AA      TC    AC-    TTTA    A     T   C   A      T     GT   A   TAT-     --   CT
+                                                  --G  GGAACCCC TGCTG  GCATGC  GGGA   TCGG    TTCG GGAGG CTT GAG GTCGGG GGGAG  GGA TCC    GGGCT  TCC  T
+                                                    C  CTTTGGGG GTGAC  CGTGCG  CCCT   GGCC    AGGC CCTCT GAA CTC TAGCTC CCCTC  CCT AGG    CCCGA  AGG  A
+                                                  \  TC        -     CC      TT    AGC    TCTA    -     -   C   C      C     AC   A   TGTT     AA   TA
+                                                  2540       2530      2520      2510      2500        2490      2480      2470      2460      2450
+ 
+ 
+                                                         2550
+                                                    A     T  G   CT
+                                                     GACCA CT CCC  \
+                                                     CTGGT GA GGG  A
+                                                    C     C  A   AT
+                                                   2570      2560
+ 
+ 
+                                2590        2600       2610
+                               .-C      .-AA     -   TT   A
+                                  TCGGGG    CGGTC TGG  CTT \
+                                  AGCCCC    GCCAG GCC  GAA G
+                               \ -      \ --     C   TT   A
+                                    2730       2620
+ 
+ 
+                                          2630       2640          2650      2660      2670
+                                          ACTC       C-       GA----           CCA     A     GCC
+                                              GGCCCGT  AGGGAGG      TGGGTCTGCCA   CCACC CCGCC   \
+                                              CCGGGTA  TTCCTCC      GCCTGGGCGGT   GGTGG GGCGG   T
+                                          GCTT       CT       ACCACC           AG-     A     ATC
+                                                2720      2710      2700       2690      2680
+ 
+ 
+                                    2740
+                                 .-ATCATC   T
+                                         AGT C
+                                         TCA C
+                                 \ ------   T
+                                       2750
+ 
+ 
+ 
+                                   .-A    TCC
+                                      GTGT   \
+                                      CACA   A
+                                   \ -    TTT
+ 
+ 
+ 
+                                      2770      2780      2790
+                                     .-CTT     TT    G     CT
+                                          CAATG  CTCT AACGC  T
+                                          GTTAC  GAGA TTGCG  G
+                                     \ ---     T-    -     TC
+                                                2800
+ 
+ 
+                                     2810
+                                       TTC   CG
+                                          GGC  \
+                                          CCG  C
+                                       A--   CC
+                                         2820
+ 
+ 
+              2840
+            .-A       G
+               GAACGGG A
+               CTTGCTC A
+            \ -       A
+                 2850
+ 
+ 
+                 2860      2870
+              C--        A     T
+                 GCTCAGGC CGGTA A
+                 CGAGTCCG GCCAT A
+              CCC        G     T
+            2890      2880
+ 
+ 
+ 
+Structure    4
+ 
+Folding bases      1 to   2891 of NC_004050.1 |Saccharomyces 23S RNA narnavirus, com
+ dG =  -1440.50  dH = -10023.40  dS = -28312.39  Tm =   80.9 ℃
+ 
+ 
+           10        20
+       C-          A    .-AA   G
+--GGGGC  ATGCATCACA GGTT    TGT A
+  CCCCG  TACGTGGTGT CCGA    ACA A
+\      TC          -    \ --   A
+          80         70       30
+ 
+ 
+                               40        50
+                          CA      A       T
+                            GCGAGA GTCCATT C
+                            CGTTCT CAGGTAA C
+                          A-      C       C
+                                  60
+ 
+ 
+   90         100
+  .-TA    .-A     C    T
+      GGCC   GTTGC CGTG \
+      CCGG   CAACG GCAC T
+  \ --    \ -     T    T
+                    110
+ 
+ 
+            120
+                ACC
+            --CG   T
+              GC   A
+            \   CAG
+             130
+ 
+ 
+                      140        150
+                     ACA      -       TT
+              --ACGCT   GGTGCG TCCTCAG  \
+                TGTGA   TCGTGC AGGAGTC  T
+              \      CGC      G       CA
+                       170       160
+ 
+ 
+                180       190         200         210        220         230
+                .-T                 T       .-A    CGTT      -    -    A-     T
+                   GGGTGTAAATGG--TCG CGACCCG   GCGG    ACGACG TGGA CTCG  GGAGC \
+                   TCCACATTTACC  AGC GCTGGGT   TGCC    TGCTGC GCCT GAGC  CCTCG T
+                \ -            \    T       \ -    TC--      C    T    GC     G
+                         2760  390       380     260         250       240
+ 
+ 
+                                                  270       280        290       300          310       320
+                                              T-   C    GA    T-    C  GATC   G      -    -   -   TC     T
+                                                TGG GGAC  TTGC  GGCG GC    TGC CGGCCG TCTG CAC GGG  GGAAG T
+                                                GCC TCTG  AACG  CCGC CG    ACG GCCGGC AGAC GTG CTC  CCTTC T
+                                              AT   A    AA    TT    T  AGA-   -      T    A   G   TT     C
+                                                     370       360        350        340       330
+ 
+ 
+                                         400             410         420
+                                 C-          T----           .-C       AT
+                                   TGCTAGTAGG     GTGG--TCTGC   GAGGCGA  \
+                                   GTGATCATCC     TACT  AGACG   CTCTGCT  C
+                                 TT          TTGAC    \      \ -       GG
+                                     2750      2740            430
+ 
+ 
+                                                                      440
+                                                               CG  -   AA
+                                                                 AC CTC  G
+                                                                 TG GAG  C
+                                                               --  T   GA
+                                                               450
+ 
+ 
+                                                            460       470          480
+                                                        .-TTT          A  -  C  .-A   -   A
+                                                             GCGGCGTGTG TC TT GA   GGG TCC C
+                                                             CGTTGCATAC AG AA CT   CCC AGG C
+                                                        \ ---          -  C  C  \ -   T   C
+                                                                 2580       2570     490
+ 
+ 
+                                                                                     500        510           520
+                                                                                  GT    -              |      TC       TA
+                                                                                    CCAG TTCCTTATGGGG--A--CTGG  GGGGTCC  G
+                                                                                    GGTC AAGGGATATCCC  T  GGCC  CTCCAGG  G
+                                                                                  --    G            \ ^\     T-       TT
+                                                                                          2560              540        530
+ 
+ 
+                                                                                                               550        560       570       580
+                                                                                                          .-A    G   T-   GC         T  GCC        CC
+                                                                                                             GAGG CGA  GCA  TGACGTTCA CG   GGGCTCTC  T
+                                                                                                             CTCC GCT  CGT  GCTGCGAGT GC   CCTGAGGG  T
+                                                                                                          \ -    -   CT   --         T  AGA        TA
+                                                                                                              620          610       600       590
+ 
+ 
+                                                                                                                  630         640       650         660        670         680         690        700       710
+                                                                                                            .-ACA     CC    T--   C   CCCGCTGAG    .-A      - T  CTC-    -         AC      C   A-   T      ATG
+                                                                                                                 TGCCG  ACTC   GTC ATC         TGCC   TCCTAA C AC    GTAG CCGC--GGA  AATTCG GAA  TCC GGGCAG   A
+                                                                                                                 ACGGT  TGAG   TAG TAG         ACGG   AGGATT G TG    CATC GGCG  CCT  TTAGGC CTT  AGG CCCGTC   T
+                                                                                                            \ ---     --    CTC   -   TCCCAG---    \ -      T C  ACGT    T    \    AT      -   AA   C      CAA
+                                                                                                                  870         860        850         810       800       790  740       730        720
+ 
+ 
+                                                                                                                                                                                       750       760
+                                                                                                                                                                                CA     G   A     C    TG
+                                                                                                                                                                                  TTGCG TGC GGAGT CTCC  \
+                                                                                                                                                                                  AACGC GTG CCTCA GAGG  T
+                                                                                                                                                                                G-     -   C     T    TA
+                                                                                                                                                                                       780       770
+ 
+ 
+                                                                                                                                                            820
+                                                                                                                                                     -     T   T    TA
+                                                                                                                                                      AAGGC TTG CGGG  C
+                                                                                                                                                      TTCCG GGC GCCC  G
+                                                                                                                                                     C     C   -    TA
+                                                                                                                                                        840        830
+ 
+ 
+                                                                                                                  880       890
+                                                                                                              AA  A          T
+                                                                                                                GG GCGTGGATTC C
+                                                                                                                TC CGCGCCTAAG T
+                                                                                                              C-  -          C
+                                                                                                                   900
+ 
+ 
+                                                                                                          910        920
+                                                                                                            T   - C         T
+                                                                                                       --TGG ACT C ACTTTCCGC A
+                                                                                                         ACC TGA G TGAGAGGCG T
+                                                                                                       \    -   A T         C
+                                                                                                              940       930
+ 
+ 
+                                                                                                            950        960        970       980       990      1000       1010         1020
+                                                                                                                  -   TC   A    C  -      GT       GA        TCAA    A      -     --   -   A    A
+                                                                                                         --CCAATCA GTC  TCG GGCC GG GTCGCT  GGTCCCT  GAGGGGGT    GGCG GGATTG TGACC  ACG CAC GCGC \
+                                                                                                           GGTTAGT CAG  GGT TCGG CC CAGCGG  CTAGGGG  CTCCTCCA    CCGC CTTAAC ACTGG  TGC GTG CGCG T
+                                                                                                         \        G   TT   C    C  A      A-       AC        TTG-    -      T     CT   A   -    C
+                                                                                                                 1100      1090      1080       1070      1060        1050      1040       1030
+ 
+ 
+                                                                                                          1110        1120      1130        1140      1150
+                                                                                                           .-A     .-TCATA      CT       .-CTAT   T       -  -     G
+                                                                                                              GGCGA       GACGAG  GTCGAAA      GGA GGCGACT TC GGCCT T
+                                                                                                              TCGCT       CTGCTC  CAGCTTT      CCT CTGCTGG AG CCGGA T
+                                                                                                           \ -     \ -----      --       \ ----   -       T  A     A
+                                                                                                                        1310        1300    1180       1170      1160
+ 
+ 
+                                                                                                                                                    1190       1200      1210      1220      1230
+                                                                                                                                           .-T     C-    -    CG    C      CC    A    A   CT    G
+                                                                                                                                              TTCCG  GGAC TTGA  TCAG ATCTGA  GGAT CCCC TGA  TGGT A
+                                                                                                                                              AGGGC  CCTG AGCT  AGTC TAGGCT  TCTA GGGG GTT  ACCG A
+                                                                                                                                           \ -     CT    C    --    C      CT    C    C   TT    A
+                                                                                                                                            1280      1270        1260      1250      1240
+ 
+ 
+ 
+                                                                                                                                                   CT
+                                                                                                                                             ACGTCC  \
+                                                                                                                                             TGCAGG  T
+                                                                                                                                                   CG
+ 
+ 
+ 
+                                                                                                                           1320         1330
+                                                                                                                     -        C-    .-AC          CT
+                                                                                                                      CTCGGACC  TATC    CTTCACTACC  \
+                                                                                                                      GGGCCTGG  GTAG    GAAGTGATGG  G
+                                                                                                                     T        AA    \ --          CA
+                                                                                                                     1670      1660   1350      1340
+ 
+ 
+                                                                                                                                               1360      1370
+                                                                                                                                      .-T    .-GT     A    A    T
+                                                                                                                                         GACC    TCGTC GGGA TCCT \
+                                                                                                                                         CTGG    AGCAG CCCT AGGG A
+                                                                                                                                      \ -    \ --     -    C    T
+                                                                                                                                              1390       1380
+ 
+ 
+                                                                                                                                                       1400      1410        1420      1430      1440        1450
+                                                                                                                                               .-C    C      TAT     .-AT    CT       GT   A        TT    C--        TCCTA
+                                                                                                                                                  CTGG CTCTGC   GTCTA    CCAC  GTTCTGG  GGA CTCTCCGA  GGGC   CCCGCGCG     \
+                                                                                                                                                  GACC GAGGCG   CAGAT    GGTG  TAAGACT  CCT GAGGGGCT  CCTG   GGGCGCGC     A
+                                                                                                                                               \ -    C      T--     \ --    TT       T-   -        --    TTT        TTACT
+                                                                                                                                                1580      1570             1500       1490         1480      1470
+ 
+ 
+                                                                                                                                                                        1510      1520      1530
+                                                                                                                                                                         A   C       CTT  T     C  G
+                                                                                                                                                                       CG CGA CTGATTG   GG GGCGA CC A
+                                                                                                                                                                       GC GTT GACTAAC   CT CCGCT GG A
+                                                                                                                                                                         C   A       AT-  C     A  A
+                                                                                                                                                                        1560      1550       1540
+ 
+ 
+                                                                                                                                                      1590      1600
+                                                                                                                                                        C     AGCA         G
+                                                                                                                                                 TTTTCAG GGGGA    CCTCGAGTC \
+                                                                                                                                                 AAAAGTC CTTCT    GGGGTTCAG A
+                                                                                                                                                        A     AG--         A
+                                                                                                                                                  1630      1620        1610
+ 
+ 
+                                                                                                                                      1640
+                                                                                                                                        T      TT
+                                                                                                                                         TCACGG  A
+                                                                                                                                         AGTGCC  A
+                                                                                                                                        A      CA
+                                                                                                                                             1650
+ 
+ 
+                                                                                                             1680      1690
+                                                                                                             .-CTG    ATCT
+                                                                                                                  AGCC    T
+                                                                                                                  TCGG    T
+                                                                                                             \ ---    GAAG
+ 
+ 
+ 
+                                                                                                              1700      1710         1720      1730
+                                                                                                                    T  TCT        -          C    G  G
+                                                                                                               --ACG GT   CCCGATCT AGT--GCCTT TCCT CC A
+                                                                                                                 TGC CG   GGGCTAGA TCA  CGGGA AGGA GG A
+                                                                                                               \    -  ---        A   \      A    G  T
+                                                                                                              2180          2170              1740
+ 
+ 
+                                                                                                                                       1750        1760       1770      1780       1790      1800
+                                                                                                                                        .-A        .-ATC       -  C  C  T   CCA     -      C   G
+                                                                                                                                           TAACTGGT     CGGGCGG CC GG TA ACA   TCGGA GCGATG CTC T
+                                                                                                                                           ATTGGCCA     GCTCGCT GG CC AT TGT   GGCCT CGCTGC GAG T
+                                                                                                                                        \ -        \ ---       T  T  T  C   AG-     A      T   G
+                                                                                                                                                     1840      1830      1820       1810
+ 
+ 
+                                                                                                                                                           1850
+                                                                                                                                                     AA            T
+                                                                                                                                                       CATCGTACTGCT C
+                                                                                                                                                       GTGGCATGGCGA T
+                                                                                                                                                     A-            C
+                                                                                                                                                    1870      1860
+ 
+ 
+                                                                                                                                       1880        1890      1900       1910      1920        1930        1940
+                                                                                                                                          C    .-T    TTTT   C         -   CAATT   C      --      TT    C--       CG
+                                                                                                                                           TGTG   ACCG    GGT GCTGGTCTT CCG     CCA TTCGGT  GGGCTG  CGGG   CCCCACC  \
+                                                                                                                                           ACAC   TGGC    TCG CGACCAGGG GGC     GGT AGGCCA  CCTGAC  GTCC   GGGGTGG  T
+                                                                                                                                          -    \ -    TTCT   T         T   ACTT-   T      TT      CT    CAA       CA
+                                                                                                                                           2160  2010      2000      1990       1980      1970      1960      1950
+ 
+ 
+                                                                                                                                                       2020      2030      2040      2050         2060      2070
+                                                                                                                                                           ATT         TT    C     C     T--   TC-    GAT   C     TT
+                                                                                                                                                 --CGCTGCTG   CAAACGCCT  GGGG GGTAT GAGGG   CCT   GACG   GTT CCGGG  \
+                                                                                                                                                   GCGGCGGC   GTTTGTGGG  CCCT CCATG CTCCT   GGG   CTGC   CAA GGCCC  T
+                                                                                                                                                 \         G--         CT    -     C     TAC   CGA    GTT   A     CA
+                                                                                                                                                       2130        2120       2110      2100      2090      2080
+ 
+ 
+                                                                                                                                                   2140
+                                                                                                                                                   -        AA
+                                                                                                                                                    GTCTGGTG  \
+                                                                                                                                                    CAGGCCAC  A
+                                                                                                                                                   T        CT
+                                                                                                                                                         2150
+ 
+ 
+                                                                                                                          2190      2200       2210       2220      2230      2240      2250        2260
+                                                                                                                          -  C GCT      -     AT   G-  C  T    A      C    A    A  T  A   TA--   A          A
+                                                                                                                 --TGCTTCC CG C   GGATGA GTCGG  CGG  CA GA CTTT TCGATC CGTG GAGG AG CG CGT    GGG GGGTGTGGAC \
+                                                                                                                   GTGAAGG GC G   TCTACT CAGCC  GCC  GT CT GAAG AGCTGG GCAC CTCC TC GC GCA    CCC CCTACACCTG C
+                                                                                                                 \        A  A T--      A     CC   AG  A  T    -      A    -    C  C  C   TTCG   -          T
+                                                                                                                 2350      2340        2330      2320      2310       2300       2290      2280       2270
+ 
+ 
+                                                                                                                          2360      2370      2380       2390      2400      2410      2420      2430         2440
+                                                                                                                   .-TC        A     AA      TC    AC-    TTTA    A     T   C   A      T     GT   A   TAT-     --   CT
+                                                                                                                       GGAACCCC TGCTG  GCATGC  GGGA   TCGG    TTCG GGAGG CTT GAG GTCGGG GGGAG  GGA TCC    GGGCT  TCC  T
+                                                                                                                       CTTTGGGG GTGAC  CGTGCG  CCCT   GGCC    AGGC CCTCT GAA CTC TAGCTC CCCTC  CCT AGG    CCCGA  AGG  A
+                                                                                                                   \ --        -     CC      TT    AGC    TCTA    -     -   C   C      C     AC   A   TGTT     AA   TA
+                                                                                                                             2530      2520      2510      2500        2490      2480      2470      2460      2450
+ 
+ 
+                                                                                                                   2540
+                                                                                                                     CT    C
+                                                                                                                       CAGA \
+                                                                                                                       GTCT C
+                                                                                                                     C-    A
+                                                                                                                     2550
+ 
+ 
+                                                         2590        2600       2610
+                                                          C      .-AA     -   TT   A
+                                                           TCGGGG    CGGTC TGG  CTT \
+                                                           AGCCCC    GCCAG GCC  GAA G
+                                                          A      \ --     C   TT   A
+                                                             2730       2620
+ 
+ 
+                                                                   2630       2640          2650      2660      2670
+                                                                   ACTC       C-       GA----           CCA     A     GCC
+                                                                       GGCCCGT  AGGGAGG      TGGGTCTGCCA   CCACC CCGCC   \
+                                                                       CCGGGTA  TTCCTCC      GCCTGGGCGGT   GGTGG GGCGG   T
+                                                                   GCTT       CT       ACCACC           AG-     A     ATC
+                                                                         2720      2710      2700       2690      2680
+ 
+ 
+               2770        2780      2790
+                  T--     TT    G     CT
+                     CAATG  CTCT AACGC  T
+                     GTTAC  GAGA TTGCG  G
+                  CTT     T-    -     TC
+                2810       2800
+ 
+ 
+       2820
+    .-GCCC    CCTT
+          GCCA    \
+          CGGT    C
+    \ ----    AGTA
+             2830
+ 
+ 
+        2840
+      .-A       G
+         GAACGGG A
+         CTTGCTC A
+      \ -       A
+           2850
+ 
+ 
+           2860      2870
+        C--        A     T
+           GCTCAGGC CGGTA A
+           CGAGTCCG GCCAT A
+        CCC        G     T
+      2890      2880
+ 
+ 
+ 
+Structure    5
+ 
+Folding bases      1 to   2891 of NC_004050.1 |Saccharomyces 23S RNA narnavirus, com
+ dG =  -1432.69  dH =  -9906.10  dS = -27951.21  Tm =   81.3 ℃
+ 
+ 
+             10
+    -    .-A  C
+--GG GGCC   TG \
+  CC CCGG   AC A
+\   G    \ -  T
+ 
+ 
+ 
+                 20          30            40        50
+           .-C     T--    T   A  .-AC|        A       T
+              AAGGT   AATG GAA AC    A--GCGAGA GTCCATT C
+              TTCCA   TTAC CTT TG    T  CGTTCT CAGGTAA C
+           \ -     CAT    -   G  \ --^\       C       C
+           2770      2760                     60
+ 
+ 
+                                           70        80
+                                        .-AA     T  T  A
+                                            GCCTG GG GC T
+                                            CGGAT CC CG C
+                                        \ --     C  -  T
+                                               90
+ 
+ 
+                                               100
+                                          .-CA     C    T
+                                              GTTGC CGTG \
+                                              CAACG GCAC T
+                                          \ --     T    T
+                                                     110
+ 
+ 
+                                            120         130       140        150
+                                            .-CG     .-GA        ACA      -       TT
+                                                ACCTA    CCGACGCT   GGTGCG TCCTCAG  \
+                                                TGGAT    GGTTGTGA   TCGTGC AGGAGTC  T
+                                            \ --     \ --        CGC      G       CA
+                                                400      180       170       160
+ 
+ 
+                                                            190       200         210        220         230
+                                                       GTG  AA      T       .-A    CGTT      -    -    A-     T
+                                                          TA  TGGTCG CGACCCG   GCGG    ACGACG TGGA CTCG  GGAGC \
+                                                          AT  GTCAGC GCTGGGT   TGCC    TGCTGC GCCT GAGC  CCTCG T
+                                                       G--  C-      T       \ -    TC--      C    T    GC     G
+                                                               390       380     260         250       240
+ 
+ 
+                                                                                  270       280        290       300          310       320
+                                                                              T-   C    GA    T-    C  GATC   G      -    -   -   TC     T
+                                                                                TGG GGAC  TTGC  GGCG GC    TGC CGGCCG TCTG CAC GGG  GGAAG T
+                                                                                GCC TCTG  AACG  CCGC CG    ACG GCCGGC AGAC GTG CTC  CCTTC T
+                                                                              AT   A    AA    TT    T  AGA-   -      T    A   G   TT     C
+                                                                                     370       360        350        340       330
+ 
+ 
+                                                     410        420         430         440       450       460         470        480         490       500
+                                              .-GT          -    AAT   --    C            A  A  A   T     TTT                   A  -      -  C-        T         T
+                                                  GGTCTGCCGA GGCG   CGG  TCGT TCCGAC--CTCA GC GG GTG GCAGA   GCGGCGTGTGA--TCTTCG AG GGTCCA CC  GGATCCCG CCAGTTCCT \
+                                                  CCAGACGGCT CCGC   GCC  AGCA GGGCTG  GAGT CG CC TAC TGTCT   CGCCGTACACT  AGAGGC TC CCAGGT GG  CCTGGGGC GGTCAGGGG A
+                                              \ --          T    GGC   CT    T      \     -  C  C   C     CAC           \       C  T      T  AT        T         T
+                                                   850       840       830       820     650       640       630               540       530       520       510
+ 
+ 
+                                                                                                                          550        560       570       580
+                                                                                                                          G     T-   GC         T  GCC        CC
+                                                                                                                           GGCGA  GCA  TGACGTTCA CG   GGGCTCTC  T
+                                                                                                                           CCGCT  CGT  GCTGCGAGT GC   CCTGAGGG  T
+                                                                                                                          -     CT   --         T  AGA        TA
+                                                                                                                          620         610       600       590
+ 
+ 
+                                                                                            660        670         680         690        700       710
+                                                                                      T--   A-      - T  CTC-    -         AC      C   A-   T      ATG
+                                                                                         GCC  TCCTAA C AC    GTAG CCGC--GGA  AATTCG GAA  TCC GGGCAG   A
+                                                                                         CGG  AGGATT G TG    CATC GGCG  CCT  TTAGGC CTT  AGG CCCGTC   T
+                                                                                      TTT   AA      T C  ACGT    T    \    AT      -   AA   C      CAA
+                                                                                             810       800       790  740       730        720
+ 
+ 
+                                                                                                                               750       760
+                                                                                                                        CA     G   A     C    TG
+                                                                                                                          TTGCG TGC GGAGT CTCC  \
+                                                                                                                          AACGC GTG CCTCA GAGG  T
+                                                                                                                        G-     -   C     T    TA
+                                                                                                                               780       770
+ 
+ 
+                                                      860           870       880       890
+                                                .-C     A--   .-C    TG  A    A          T
+                                                   TGATG   TCT   GAGT  GC AAGG GCGTGGATTC C
+                                                   ACTAT   AGG   CTCA  TG TTCT CGCGCCTAAG T
+                                                \ -     CCC   \ -    --  G    C          C
+                                                     1320            910       900
+ 
+ 
+                                                                     920
+                                                                .-C         T
+                                                                   ACTTTCCGC A
+                                                                   TGAGAGGCG T
+                                                                \ -         C
+                                                                        930
+ 
+ 
+                                                                    940        950        960        970       980       990      1000       1010         1020
+                                                                       A- T  A       -   TC   A    C  -      GT       GA        TCAA    A      -     --   -   A    A
+                                                                  --TGA  G CC CCAATCA GTC  TCG GGCC GG GTCGCT  GGTCCCT  GAGGGGGT    GGCG GGATTG TGACC  ACG CAC GCGC \
+                                                                    ACT  C GG GGTTAGT CAG  GGT TCGG CC CAGCGG  CTAGGGG  CTCCTCCA    CCGC CTTAAC ACTGG  TGC GTG CGCG T
+                                                                  \    AG -  A       G   TT   C    C  A      A-       AC        TTG-    -      T     CT   A   -    C
+                                                                          1110      1100      1090      1080       1070      1060        1050      1040       1030
+ 
+ 
+                                                                  1120       1130        1140      1150
+                                                                    TA-      CT       .-CTAT   T       -  -     G
+                                                                       GACGAG  GTCGAAA      GGA GGCGACT TC GGCCT T
+                                                                       CTGCTC  CAGCTTT      CCT CTGCTGG AG CCGGA T
+                                                                    CTC      --       \ ----   -       T  A     A
+                                                                     1310        1300    1180       1170      1160
+ 
+ 
+                                                                                                 1190       1200      1210      1220      1230
+                                                                                        .-T     C-    -    CG    C      CC    A    A   CT    G
+                                                                                           TTCCG  GGAC TTGA  TCAG ATCTGA  GGAT CCCC TGA  TGGT A
+                                                                                           AGGGC  CCTG AGCT  AGTC TAGGCT  TCTA GGGG GTT  ACCG A
+                                                                                        \ -     CT    C    --    C      CT    C    C   TT    A
+                                                                                         1280      1270        1260      1250      1240
+ 
+ 
+ 
+                                                                                                CT
+                                                                                          ACGTCC  \
+                                                                                          TGCAGG  T
+                                                                                                CG
+ 
+ 
+ 
+                                                     1330
+                                                  .-C          CT
+                                                     CTTCACTACC  \
+                                                     GAAGTGATGG  G
+                                                  \ -          CA
+                                                   1350      1340
+ 
+ 
+                                                            1360      1370
+                                                    T   -          A    A    T
+                                                     GAC CGT--TCGTC GGGA TCCT \
+                                                     CTG GCG  AGCAG CCCT AGGG A
+                                                    C   C   \      -    C    T
+                                                        1451390       1380
+ 
+ 
+                                                                      1400      1410      1420
+                                                              CCT     C--  CTAT  CTAA       GT
+                                                                 GGCCT   TG    GT    TCCACCT  \
+                                                                 CCGGG   GC    CA    AGGTGGG  T
+                                                              CCC     TTA  CTCT  ----       TC
+                                                                    1440          1430
+ 
+ 
+                                   1460       1470        1480        1490      1500        1510      1520      1530
+                                   .-A  C     C-    .-GTTTG                      ATTT     .-GA   C       CTT  T     C  G
+                                      AT ATTCG  GCGG       TCCTCGGGG--AGTCCTTCAGA    GTGGC    CGA CTGATTG   GG GGCGA CC A
+                                      TA TAAGC  CGCT       AGGGGCTCC  TCGGGAAGTTT    TACCG    GTT GACTAAC   CT CCGCT GG A
+                                   \ -  C     CC    \ -----         \            C---     \ --   A       AT-  C     A  A
+                                   2740      2730            2590           1690            1560      1550       1540
+ 
+ 
+                                                                                                 1570        1580
+                                                                                            CCG    CT   G     .-A      AG
+                                                                                               TAGA  GCG AGCCC   GTTTTC  \
+                                                                                               GTCT  CGC TTGGG   CGAAGG  C
+                                                                                            A--    --   -     \ -      GG
+                                                                                             1680         1670       1590
+ 
+ 
+                                                                                                                 1600
+                                                                                                                .-A         G
+                                                                                                                   CCTCGAGTC \
+                                                                                                                   GGGGTTCAG A
+                                                                                                                \ -         A
+                                                                                                                         1610
+ 
+ 
+                                                                                                                1620        1630
+                                                                                                                  -            G
+                                                                                                                   GATCTTCA--CT A
+                                                                                                                   CTGGAAGT  GA A
+                                                                                                                  C        \   A
+ 
+ 
+ 
+                                                                                                                              1640
+                                                                                                                             G         TT
+                                                                                                                              TCTTCACGG  A
+                                                                                                                              AGAAGTGCC  A
+                                                                                                                             -         CA
+                                                                                                                           1660      1650
+ 
+ 
+                                                                     1700      1710         1720      1730
+                                                                           T  TCT        -          C    G  G
+                                                                      --ACG GT   CCCGATCT AGT--GCCTT TCCT CC A
+                                                                        TGC CG   GGGCTAGA TCA  CGGGA AGGA GG A
+                                                                      \    -  ---        A   \      A    G  T
+                                                                     2180          2170              1740
+ 
+ 
+                                                                                              1750        1760       1770      1780       1790      1800
+                                                                                               .-A        .-ATC       -  C  C  T   CCA     -      C   G
+                                                                                                  TAACTGGT     CGGGCGG CC GG TA ACA   TCGGA GCGATG CTC T
+                                                                                                  ATTGGCCA     GCTCGCT GG CC AT TGT   GGCCT CGCTGC GAG T
+                                                                                               \ -        \ ---       T  T  T  C   AG-     A      T   G
+                                                                                                            1840      1830      1820       1810
+ 
+ 
+                                                                                                                  1850
+                                                                                                            AA            T
+                                                                                                              CATCGTACTGCT C
+                                                                                                              GTGGCATGGCGA T
+                                                                                                            A-            C
+                                                                                                           1870      1860
+ 
+ 
+                                                                                              1880        1890      1900       1910      1920        1930        1940
+                                                                                                 C    .-T    TTTT   C         -   CAATT   C      --      TT    C--       CG
+                                                                                                  TGTG   ACCG    GGT GCTGGTCTT CCG     CCA TTCGGT  GGGCTG  CGGG   CCCCACC  \
+                                                                                                  ACAC   TGGC    TCG CGACCAGGG GGC     GGT AGGCCA  CCTGAC  GTCC   GGGGTGG  T
+                                                                                                 -    \ -    TTCT   T         T   ACTT-   T      TT      CT    CAA       CA
+                                                                                                  2160  2010      2000      1990       1980      1970      1960      1950
+ 
+ 
+                                                                                                              2020      2030      2040      2050         2060      2070
+                                                                                                                  ATT         TT    C     C     T--   TC-    GAT   C     TT
+                                                                                                        --CGCTGCTG   CAAACGCCT  GGGG GGTAT GAGGG   CCT   GACG   GTT CCGGG  \
+                                                                                                          GCGGCGGC   GTTTGTGGG  CCCT CCATG CTCCT   GGG   CTGC   CAA GGCCC  T
+                                                                                                        \         G--         CT    -     C     TAC   CGA    GTT   A     CA
+                                                                                                              2130        2120       2110      2100      2090      2080
+ 
+ 
+                                                                                                          2140
+                                                                                                          -        AA
+                                                                                                           GTCTGGTG  \
+                                                                                                           CAGGCCAC  A
+                                                                                                          T        CT
+                                                                                                                2150
+ 
+ 
+                                                                                 2190      2200       2210       2220      2230      2240      2250        2260
+                                                                        .-T      -  C GCT      -     AT   G-  C  T    A      C    A    A  T  A   TA--   A          A
+                                                                           GCTTCC CG C   GGATGA GTCGG  CGG  CA GA CTTT TCGATC CGTG GAGG AG CG CGT    GGG GGGTGTGGAC \
+                                                                           TGAAGG GC G   TCTACT CAGCC  GCC  GT CT GAAG AGCTGG GCAC CTCC TC GC GCA    CCC CCTACACCTG C
+                                                                        \ -      A  A T--      A     CC   AG  A  T    -      A    -    C  C  C   TTCG   -          T
+                                                                        2350      2340        2330      2320      2310       2300       2290      2280       2270
+ 
+ 
+                                                                                  2360      2370      2380       2390      2400      2410      2420      2430         2440
+                                                                             TC        A     AA      TC    AC-    TTTA    A     T   C   A      T     GT   A   TAT-     --   CT
+                                                                          --G  GGAACCCC TGCTG  GCATGC  GGGA   TCGG    TTCG GGAGG CTT GAG GTCGGG GGGAG  GGA TCC    GGGCT  TCC  T
+                                                                            C  CTTTGGGG GTGAC  CGTGCG  CCCT   GGCC    AGGC CCTCT GAA CTC TAGCTC CCCTC  CCT AGG    CCCGA  AGG  A
+                                                                          \  TC        -     CC      TT    AGC    TCTA    -     -   C   C      C     AC   A   TGTT     AA   TA
+                                                                          2540       2530      2520      2510      2500        2490      2480      2470      2460      2450
+ 
+ 
+                                                                                   2550
+                                                                            .-A     T  G   CT
+                                                                               GACCA CT CCC  \
+                                                                               CTGGT GA GGG  A
+                                                                            \ -     C  A   AT
+                                                                             2570      2560
+ 
+ 
+ 
+                                                                                   AC
+                                                                              CAACG  \
+                                                                              GTTGC  A
+                                                                                   AT
+                                                                                 2580
+ 
+ 
+                                                         2600       2610
+                                                      .-A     -   TT   A
+                                                         CGGTC TGG  CTT \
+                                                         GCCAG GCC  GAA G
+                                                      \ -     C   TT   A
+                                                            2620
+ 
+ 
+                                                        2630       2640          2650      2660      2670
+                                                        ACTC       C-       GA----           CCA     A     GCC
+                                                            GGCCCGT  AGGGAGG      TGGGTCTGCCA   CCACC CCGCC   \
+                                                            CCGGGTA  TTCCTCC      GCCTGGGCGGT   GGTGG GGCGG   T
+                                                        T---       CT       ACCACC           AG-     A     ATC
+                                                              2720      2710      2700       2690      2680
+ 
+ 
+ 
+                                     C   T
+                                      AGT C
+                                      TCA C
+                                     A   T
+                                    2750
+ 
+ 
+                      2780      2790
+             ---     TT    G     CT
+                CAATG  CTCT AACGC  T
+                GTTAC  GAGA TTGCG  G
+             CTT     T-    -     TC
+           2810       2800
+ 
+ 
+  2820
+  .-C    CCTT
+     GCCA    \
+     CGGT    C
+  \ -    AGTA
+        2830
+ 
+ 
+      2840
+    .-A       G
+       GAACGGG A
+       CTTGCTC A
+    \ -       A
+         2850
+ 
+ 
+         2860      2870
+      C--        A     T
+         GCTCAGGC CGGTA A
+         CGAGTCCG GCCAT A
+      CCC        G     T
+    2890      2880
+ 
+ 
